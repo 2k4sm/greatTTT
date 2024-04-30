@@ -4,3 +4,5 @@ Designing a great game of tic tac toe with all necessary features using m.v.c de
 ## Game requirements:
 
 [Requirements.md](./req.md) 
+
+## Run using Intellij idea.
